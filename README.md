@@ -34,7 +34,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dnehgus6975@gmail.com)](mailto:mase306.devops@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dnehgus6975/)](https://velog.io/@dnehgus6975/)
+[![Velog Badge](https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dnehgus6975/)](https://teddy-woo.github.io/)
 
 </div>
 
